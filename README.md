@@ -23,8 +23,8 @@ Soy **Txaran**, actualmente estoy aprendiendo por cuenta propia, aunque me gusta
     </tr>
     <tr>
        <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" style="filter: brightness(0) invert(1);"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" alt="icono de git" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" style="filter: brightness(0) invert(1);" alt="icono de github"/>
         </td>
         <td>
           <a href="https://github.com/txarandev/aprendiendo_git" alight="center"> Git y GitHub </a>
