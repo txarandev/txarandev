@@ -38,3 +38,4 @@ Soy **Txaran**, actualmente estoy aprendiendo por cuenta propia, aunque me gusta
 ### Un poco mas sobre mí 🤗
 * 🔭 Actualmente enfocado en **python**.
 * 💼 Con ganas de adentrarme de lleno en el mundo del **fullstack**.
+* Me encanta todo lo relacionado con la cultura nórdica, la runología mas concretamente.
